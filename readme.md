@@ -9,7 +9,9 @@
 ## 貪吃蛇
 ![snake](pic/snake.png)
 
-
+How to run  
+> cd snake_game  
+> python snake.py
 
 ---
 ## github指令
