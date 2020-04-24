@@ -17,8 +17,11 @@ How to run
 ![web](pic/webpage.png)
 
 How to run  
-> 1. 找到 web_design 資料夾 
-> 2. 把index.html 用網頁打開
+> 1. 找到 web_design 資料夾  
+> 2. 把index.html 用網頁打開  
+---
+## 網頁爬蟲
+練習: [ptt_nba版](web_spider/nba.csv)  
 ---
 ## github指令
 - config (設定git bash)
