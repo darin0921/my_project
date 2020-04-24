@@ -6,6 +6,12 @@
 - [x] 網頁爬蟲
 - [x] github
 ---
+## 貪吃蛇
+![snake](pic/snake.png)
+
+
+
+---
 ## github指令
 - config (設定git bash)
     - git config --global user.name myusername   
