@@ -12,7 +12,13 @@
 How to run  
 > cd snake_game  
 > python snake.py
+---
+## 網頁
+![web](pic/webpage.png)
 
+How to run  
+> 1. 找到 web_design 資料夾 
+> 2. 把index.html 用網頁打開
 ---
 ## github指令
 - config (設定git bash)
